@@ -84,7 +84,4 @@ public class Brick {
 	public void hit() {
 		hp--;
 	}
-	
-	
-	
 }
